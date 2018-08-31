@@ -1,2 +1,3 @@
-打开终端，执行下面的命令就自动安装好了：
-wget -qO- https://github.com/lroyd/vimIDE/master/setup.sh | sh -x
+1.sudo apt-get update
+2.下载setup.sh（添加执行权限）
+3.运行setup.sh脚本
